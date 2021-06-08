@@ -3,9 +3,7 @@
 127.0.0.1ad-g.doubleclick.net
 127.0.0.1ad.doubleclick.net
 127.0.0.1ad.mo.doubleclick.net
-127.0.0.1ad.youtube.com
 127.0.0.1ade.googlesyndication.com
-127.0.0.1ads.youtube.com
 127.0.0.1akamaiedge.net
 127.0.0.1akamaitechnologies.com
 127.0.0.1analytic-google.com
@@ -11781,8 +11779,6 @@ r19.sn-5uaezn7e.googlevideo.com
 r20.sn-5uaezn7e.googlevideo.com
 127.0.0.1ads.doubleclick.net
 127.0.0.1s.ytimg.com
-127.0.0.1ad.youtube.com
-127.0.0.1ads.youtube.com
 127.0.0.1clients1.google.com
 127.0.0.1dts.innovid.com
 127.0.0.1googleads4.g.doubleclick.net
@@ -11803,7 +11799,6 @@ r20.sn-5uaezn7e.googlevideo.com
 127.0.0.1files.adform.net
 127.0.0.1secure-ds.serving-sys.com
 127.0.0.1securepubads.g.doubleclick.net
-127.0.0.1s.youtube.com
 127.0.0.12975c.v.fwmrm.net
 127.0.0.1static.doubleclick.net
 127.0.0.1googleadservices.com
